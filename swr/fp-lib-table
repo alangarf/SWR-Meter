@@ -1,3 +1,5 @@
 (fp_lib_table
-  (lib (name T50-43)(type KiCad)(uri C:/Users/alan/Documents/projects/kicad_library/T50-43.pretty)(options "")(descr ""))
+  (lib (name T50-43)(type KiCad)(uri ${KIPRJMOD}/../library/T50-43.pretty)(options "")(descr ""))
+  (lib (name coils)(type KiCad)(uri ${KIPRJMOD}/../library/coils.pretty)(options "")(descr ""))
+  (lib (name pads)(type KiCad)(uri ${KIPRJMOD}/../library/pads.pretty)(options "")(descr ""))
 )
